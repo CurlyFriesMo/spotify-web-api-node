@@ -1,16 +1,9 @@
 {
   "name": "spotify-web-api-node",
   "version": "5.0.2",
-  "homepage": "https://github.com/thelinmichael/spotify-web-api-node",
   "description": "A Node.js wrapper for Spotify's Web API",
   "main": "./Effenaar/dataProfile.js",
-  "author": "Michael Thelin",
-  "contributors": [
-    {
-      "name": "José M. Perez",
-      "url": "https://github.com/JMPerez"
-    }
-  ],
+  "author": "Jeroen Eillebrecht",
   "license": "MIT",
   "repository": {
     "type": "git",
